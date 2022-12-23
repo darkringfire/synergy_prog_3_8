@@ -1,4 +1,5 @@
 #include <iostream>
+#include <limits.h>
 
 int main() {
     int n;
